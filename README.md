@@ -72,7 +72,7 @@ The dashboard presents the analyzed data through interactive Power BI visualizat
 
 🔍 Key Influencer Analysis
 
-"Key_Influencer" (Key%20Influencer.png)
+"Key Influencer" (Key_Influencer.png)
 
 The Key Influencers visual was used to explore factors associated with the selected analytical outcome and identify patterns within the dataset.
 
@@ -80,7 +80,7 @@ The Key Influencers visual was used to explore factors associated with the selec
 
 🌳 Additional Analysis
 
-"Link_tree" (Link%20Tree.png)
+"Linktree" (Link_tree.png)
 
 This visualization provides an additional view of relationships and patterns within the analyzed data.
 
