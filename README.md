@@ -1,36 +1,117 @@
+Power BI Data Analytics Project
 
-# Power BI Data Analytics Project
+📊 Project Overview
 
-## Project Overview
+This project demonstrates an end-to-end data analytics workflow using sample data.
 
-This project demonstrates the process of transforming raw data into meaningful business insights using Excel, Pivot Tables, Power BI and AI-assisted analysis.
+The project focuses on transforming raw data into meaningful visual insights using Power BI, with interactive dashboards and analytical features to understand patterns, trends, and key factors within the data.
 
-## Tools & Technologies
+---
 
-- Microsoft Excel
+🎯 Project Objective
+
+The objective of this project was to:
+
+- Analyze raw sample data
+- Prepare and work with data for analysis
+- Build an interactive Power BI dashboard
+- Identify important trends and patterns
+- Explore factors influencing the data
+- Present insights through clear visualizations
+
+---
+
+🛠️ Tools & Technologies
+
 - Power BI
-- Pivot Tables
-- Linktree
-- KeyInfluencer
-- AI-assisted analysis
+- CSV / Raw Data
+- Data Analysis
+- Data Visualization
+- Key Influencers
+- Interactive Power BI Visuals
 
-## Work Performed
+---
 
-- Cleaned and prepared raw data
-- Performed data analysis using Pivot Tables
-- Created an interactive Power BI dashboard
-- Analyzed key trends and patterns
-- Generated business insights using AI-assisted analysis
-- Presented findings through visualizations
+🔄 Project Workflow
 
-## Key Learning
+Raw Data
+   ↓
+Data Preparation
+   ↓
+Data Analysis
+   ↓
+Power BI Visualizations
+   ↓
+Dashboard
+   ↓
+Key Influencer Analysis
+   ↓
+Business Insights
 
-This project helped me understand how raw data can be transformed into meaningful insights that can support better business decisions.
+---
 
-## Project Preview
+📁 Project Files
 
-Dashboard screenshots are included in this repository.
+File| Description
+"Raw Data.csv"| Sample dataset used for the analysis
+"Power BI Data Analytics Project.pbix"| Power BI project file
+"Dashboard.png"| Main Power BI dashboard preview
+"Key Influencer.png"| Key Influencers analysis preview
+"Link Tree.png"| Additional Power BI analysis/visualization
+"README.md"| Project documentation
 
-## Skills Demonstrated
+---
 
-Data Cleaning | Data Analysis | Excel | Power BI | Data Visualization | AI-assisted Analysis
+📈 Dashboard Preview
+
+"Dashboard" (Dashboard.png)
+
+The dashboard presents the analyzed data through interactive Power BI visualizations.
+
+---
+
+🔍 Key Influencer Analysis
+
+"Key Influencer" (Key%20Influencer.png)
+
+The Key Influencers visual was used to explore factors associated with the selected analytical outcome and identify patterns within the dataset.
+
+---
+
+🌳 Additional Analysis
+
+"Link Tree" (Link%20Tree.png)
+
+This visualization provides an additional view of relationships and patterns within the analyzed data.
+
+---
+
+💡 Key Learning
+
+Through this project, I practiced:
+
+- Working with raw datasets
+- Preparing data for analysis
+- Creating Power BI visualizations
+- Building an analytical dashboard
+- Exploring patterns and trends
+- Using Key Influencers for deeper analysis
+- Presenting data in a clear and understandable format
+
+---
+
+🚀 Skills Demonstrated
+
+Power BI | Data Analysis | Data Visualization | Dashboard Development | Analytical Thinking | Key Influencers | Data Storytelling
+
+---
+
+📌 Project Type
+
+Data Analytics | Power BI | Business Intelligence
+
+---
+
+👩‍💻 About the Project
+
+This project is part of my hands-on learning journey in Data Analytics and AI-enabled workflows, where I focus on building practical projects rather than only learning concepts theoretically.
