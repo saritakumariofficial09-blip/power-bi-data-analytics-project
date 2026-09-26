@@ -80,7 +80,7 @@ The Key Influencers visual was used to explore factors associated with the selec
 
 🌳 Additional Analysis
 
-![Link tree](./Link_tree.png)
+![Link tree](./LInk_tree.png)
 
 This visualization provides an additional view of relationships and patterns within the analyzed data.
 
