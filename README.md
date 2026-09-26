@@ -53,11 +53,11 @@ Business Insights
 📁 Project Files
 
 File| Description
-"Raw Data.csv"| Sample dataset used for the analysis
-"Power BI Data Analytics Project.pbix"| Power BI project file
+"Raw_Data.csv"| Sample dataset used for the analysis
+"Power_BI_Data_Analytics_Project.pbix"| Power BI project file
 "Dashboard.png"| Main Power BI dashboard preview
-"Key Influencer.png"| Key Influencers analysis preview
-"Link Tree.png"| Additional Power BI analysis/visualization
+"Key_Influencer.png"| Key Influencers analysis preview
+"Link_tree.png"| Additional Power BI analysis/visualization
 "README.md"| Project documentation
 
 ---
@@ -72,7 +72,7 @@ The dashboard presents the analyzed data through interactive Power BI visualizat
 
 🔍 Key Influencer Analysis
 
-"Key Influencer" (Key%20Influencer.png)
+"Key_Influencer" (Key%20Influencer.png)
 
 The Key Influencers visual was used to explore factors associated with the selected analytical outcome and identify patterns within the dataset.
 
@@ -80,7 +80,7 @@ The Key Influencers visual was used to explore factors associated with the selec
 
 🌳 Additional Analysis
 
-"Link Tree" (Link%20Tree.png)
+"Link_tree" (Link%20Tree.png)
 
 This visualization provides an additional view of relationships and patterns within the analyzed data.
 
